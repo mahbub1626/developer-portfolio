@@ -9,11 +9,16 @@ body {
 }
 
 .top_banner {
-    background-image: url(images/top-banner.png);
+    background-image: url(images/one\ site\ circle.png);
     background-repeat: no-repeat;
     margin-left: 0;
+    margin-top: 0;
     background-size: 100px 100px;
 
+}
+
+#top-banner-margin {
+    margin-top: 70px;
 }
 
 h1 {
