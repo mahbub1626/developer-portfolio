@@ -63,8 +63,22 @@ p {
 }
 
 .exp-item {
-    box-shadow: 10px 10px 10px gray;
+    box-shadow: 10px 10px 40px gray;
     margin-left: 5%;
     margin-right: 5%;
     padding: 15px;
+    border-radius: 10px;
+}
+
+#full-stack-web-developer {
+    border-left: 7px solid orange;
+}
+
+#baby-web-developer {
+    border-left: 7px solid blue;
+}
+
+footer p {
+    text-align: center;
+    margin-bottom: 15px;
 }
