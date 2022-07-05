@@ -3,7 +3,7 @@ body {
     margin: 0;
 }
 
-section {
+.flesible-container {
     display: flex;
     margin-bottom: 100px;
 }
@@ -31,7 +31,7 @@ h1 {
     padding-left: 5%;
 }
 
-.half-width p {
+p {
     text-align: justify;
 }
 
@@ -55,6 +55,5 @@ h1 {
 }
 
 .dream-big p {
-    text-align: justify;
     padding-right: 10%;
 }
