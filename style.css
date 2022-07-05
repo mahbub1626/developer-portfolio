@@ -21,6 +21,10 @@ h1 {
 
 }
 
+h2 {
+    font-size: 40px;
+}
+
 .orange-color {
     color: orange;
 }
@@ -56,4 +60,11 @@ p {
 
 .dream-big p {
     padding-right: 10%;
+}
+
+.exp-item {
+    box-shadow: 10px 10px 10px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 15px;
 }
